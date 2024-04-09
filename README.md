@@ -1,3 +1,6 @@
+### This project is a PayPal landing page created with React and Tailwind CSS. It features a responsive design having multiple sections.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
