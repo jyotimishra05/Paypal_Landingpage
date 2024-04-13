@@ -1,6 +1,6 @@
 ### This project is a PayPal landing page created with React and Tailwind CSS. It features a responsive design having multiple sections.
 
-## Project Link: https://paypal-landingpage-pnbc.vercel.app/
+## Project Link: https://paypal-landingpage.vercel.app/
 
 # Getting Started with Create React App
 
